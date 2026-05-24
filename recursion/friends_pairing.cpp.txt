@@ -1,0 +1,15 @@
+git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   src/friends_pairing.cpp.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        friends_pairing.cpp.txt
+
+PS C:\Users\aditya\Desktop\DSA - Journey - CPP\recursion> 
+
